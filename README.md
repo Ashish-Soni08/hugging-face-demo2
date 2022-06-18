@@ -1,10 +1,10 @@
 ---
-title: Hugging Face Spaces Demo with Noah Gift
-emoji: 🌖
-colorFrom: purple
-colorTo: purple
+title: Demo2
+emoji: 👀
+colorFrom: green
+colorTo: gray
 sdk: gradio
-sdk_version: 3.0.6
+sdk_version: 3.0.19
 app_file: app.py
 pinned: false
 license: cc
